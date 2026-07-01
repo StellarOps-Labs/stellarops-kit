@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StellarOps Kit
 
 Contributor-ready workflows for independent Stellar and Soroban maintainers.
@@ -97,3 +98,7 @@ MIT.
 ## Maintainer note
 
 Keep the positioning honest: this project supports Stellar/Soroban maintainers, but it does not claim endorsement or official status from ecosystem organizations or funding programs.
+=======
+# stellarops-kit
+Open-source toolkit for preparing Stellar and Soroban repositories for contributor-driven development, issue workflows, and maintainer operations.
+>>>>>>> c3093ab2a6d5016450e3a11b11c3d4d153d04f7f
